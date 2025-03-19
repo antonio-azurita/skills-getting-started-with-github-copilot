@@ -136,6 +136,29 @@ button:hover {
   display: none;
 }
 
+.participants {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 5px;
+  color: #0d47a1;
+  font-size: 14px;
+}
+
+.participants strong {
+  color: #1565c0;
+}
+
+.participants span {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 2px 5px;
+  background-color: #bbdefb;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
